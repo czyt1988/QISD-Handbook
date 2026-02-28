@@ -16,11 +16,11 @@ Qt Creator从17版本开始支持ai插件，官方有AI Assistant，这个插件
 
 `QodeAssist`需要先申请APIkey，这里以`Deepseek`为例，需要先去[deepseek的开发官网](https://platform.deepseek.com/)申请APIkey。
 
-![](../assets/环境搭建/deepseek-apikey.png)
+![](../../assets/环境搭建/deepseek-apikey.png)
 
 申请后你需要给当前apikey起个名字，并记下Apikey。最后邮件发给自己，或者用个记事本记录下来，这个key在官网是无法查找到
 
-![](../assets/环境搭建/deepseek-apikey2.png)
+![](../../assets/环境搭建/deepseek-apikey2.png)
 
 获取到apikey后，就可以开始搭建AI编程环境了
 
@@ -39,7 +39,7 @@ Qt Creator从17版本开始支持ai插件，官方有AI Assistant，这个插件
 
 `Chat Assistant`填写可以和上面一样
 
-![](../assets/环境搭建/qodeassist-setting-1.png)
+![](../../assets/环境搭建/qodeassist-setting-1.png)
 
 另外还需要配置`Provider Setting`，把`OpenAI Compatible`对应的`API Key`填入之前申请的`deepseek`的`apikey`
 
