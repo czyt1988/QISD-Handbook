@@ -1,9 +1,0 @@
-numpy<=1.21.6
-loguru
-pandas
-scipy
-openpyxl
-chardet
-PyWavelets
-pyarrow
-typing_extensions
