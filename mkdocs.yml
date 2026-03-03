@@ -55,7 +55,7 @@ nav:
         - 项目说明: zh/index.md
     - 环境搭建:
         - Qt开发环境: zh/env-build/Qt开发环境搭建.md
-        - '搭建Qt Creator的AI编程环境': zh/env-build/搭建Qt Creator的AI编程环境.md
+        - '搭建Qt Creator的AI编程环境': zh/env-build/搭建QtCreator的AI编程环境.md
         
 
 markdown_extensions:
